@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Subhro]!
+# 👋 Hello, I'm Subhro!
 
 ## 🚀 About Me
 
