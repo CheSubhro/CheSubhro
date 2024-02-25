@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hello, I'm [Subhro]!
 
-<!--
-**CheSubhro/CheSubhro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 💼 Some Facts About Me 👩‍💼
+- 👩🏻‍💻 Tech Stack 👩🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- Web development enthusiast 👩🏻‍⚕️
+- Experienced in HTML, CSS, JavaScript,Tailwind CSS,MERN,Python 💻
+- Currently exploring MERN 📝
+- Sharing knowledge on Web Development 📝
+- Sharing tips, resources, and projects on Full Stack Web Development 🕮
+- GitHub showcases my art and projects using HTML, CSS, and JavaScript 🎨
+
+## 🏸 Hobbies
+
+- Love playing cricket
+
+
+
+
