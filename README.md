@@ -2,7 +2,7 @@
 I am Full Stack Web App Developer.
 
 ## 🚀 About Me
-![My Desc](https://github.com/Professional Business Card.jpg)
+https://raw.githubusercontent.com/CheSubhro/CheSubhro/master/Professional%20Business%20Card.jpg
 
 # 👩‍💼 Some Facts About Me
 
