@@ -43,7 +43,11 @@ I am Full Stack Web App Developer.
 
 ## 🏸 Hobbies
 
-- Love playing cricket
+- Love Playing Cricket
+- Love Reading Books
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=CheSubhro&color=green)
+
 
 
 
