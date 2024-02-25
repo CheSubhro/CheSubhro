@@ -46,7 +46,8 @@ I am Full Stack Web App Developer.
 - Love Playing Cricket
 - Love Reading Books
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=CheSubhro&color=green)
+  ![Profile Views](https://komarev.com/ghpvc/?username=CheSubhro&color=green) ![GitHub Followers](https://img.shields.io/github/followers/CheSubhro?label=Followers&style=social)
+
 
 
 
