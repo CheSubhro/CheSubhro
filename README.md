@@ -43,7 +43,10 @@ I am Full Stack Web App Developer.
 
 **Others**
 
-[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/) [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/) [![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/) [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/) [![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)[![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![OpenGraph](https://img.shields.io/badge/OpenGraph-%23A770EF.svg?style=for-the-badge)](https://ogp.me/)
+
 
 
 
