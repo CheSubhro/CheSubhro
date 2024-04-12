@@ -24,7 +24,14 @@ I am Full Stack Web App Developer.
 
 **Frontend Framework and Lib**
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/) [![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/) [![Material Design](https://img.shields.io/badge/Material_Design-%230081CB.svg?style=for-the-badge&logo=material-design&logoColor=white)](https://material.io/) [![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)[![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/) [![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/) [![Material Design](https://img.shields.io/badge/Material_Design-%230081CB.svg?style=for-the-badge&logo=material-design&logoColor=white)](https://material.io/) [![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)[![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)[![ShadcnUI](https://img.shields.io/badge/ShadcnUI-%23FF5733.svg?style=for-the-badge)](https://shadcnui.com/)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-%2300B48A.svg?style=for-the-badge)](https://daisyui.com/)
+[![Chakra UI](https://img.shields.io/badge/Chakra_UI-%23319795.svg?style=for-the-badge)](https://chakra-ui.com/)
+[![Shoelace](https://img.shields.io/badge/Shoelace-%230F1A2F.svg?style=for-the-badge)](https://shoelace.style/)
+[![Ant Design](https://img.shields.io/badge/Ant_Design-%230170FE.svg?style=for-the-badge)](https://ant.design/)
+[![React Hook Forms](https://img.shields.io/badge/React_Hook_Forms-%23000000.svg?style=for-the-badge)](https://react-hook-form.com/)
+[![Tailwind UI](https://img.shields.io/badge/Tailwind_UI-%2338B2AC.svg?style=for-the-badge)](https://tailwindui.com/)
+
 
 **Backend Framework and Lib** 
 
