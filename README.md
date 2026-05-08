@@ -61,7 +61,7 @@ I am Full Stack Web App Developer.
 - Love Reading Books
 
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheSubhro&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheSubhro&show_icons=true&theme=tokyonight)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CheSubhro&color=green) ![GitHub Followers](https://img.shields.io/github/followers/CheSubhro?label=Followers&style=social)
