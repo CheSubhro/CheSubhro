@@ -62,7 +62,7 @@ I am Full Stack Web App Developer.
 
   
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CheSubhro&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+https://github-readme-stats.vercel.app/api?username=CheSubhro&show_icons=true&theme=tokyonight&cache_seconds=1800
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CheSubhro&color=green) ![GitHub Followers](https://img.shields.io/github/followers/CheSubhro?label=Followers&style=social)
