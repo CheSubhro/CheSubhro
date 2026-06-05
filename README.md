@@ -62,7 +62,7 @@ I am Full Stack Web App Developer.
 - Love Reading Books
   
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CheSubhro&theme=tokyonight" />
+![Subhro's GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=CheSubhro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 
 
