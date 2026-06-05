@@ -2,17 +2,6 @@
 I am Full Stack Web App Developer.
 
 
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=CheSubhro&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
-/>
-
-
-
-
-
-
-
 ## 🚀 About Me
 
 ![Professional Business Card](https://raw.githubusercontent.com/CheSubhro/CheSubhro/master/Professional%20Business%20Card.jpg)
@@ -71,10 +60,10 @@ I am Full Stack Web App Developer.
 
 - Love Playing Cricket
 - Love Reading Books
-
-
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=CheSubhro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CheSubhro&theme=tokyonight" 
+
 />
 
 
