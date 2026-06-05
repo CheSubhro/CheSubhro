@@ -60,7 +60,7 @@ I am Full Stack Web App Developer.
 - Love Playing Cricket
 - Love Reading Books
 
-<p align="center">
+
 
 <img 
   src="https://github-readme-stats.vercel.app/api?username=CheSubhro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
@@ -72,7 +72,6 @@ I am Full Stack Web App Developer.
   height="180"
 />
 
-</p>
 
 
 
