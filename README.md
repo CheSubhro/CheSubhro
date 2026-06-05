@@ -60,7 +60,7 @@ I am Full Stack Web App Developer.
 - Love Playing Cricket
 - Love Reading Books
 
-![Subhro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheSubhro&show_icons=true&theme=radical&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheSubhro&show_icons=true&theme=tokyonight)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CheSubhro&color=green) ![GitHub Followers](https://img.shields.io/github/followers/CheSubhro?label=Followers&style=social)
