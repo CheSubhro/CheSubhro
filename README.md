@@ -59,20 +59,12 @@ I am Full Stack Web App Developer.
 
 - Love Playing Cricket
 - Love Reading Books
-
-```md id="p1h2rw"
-# 📊 GitHub Stats
-
-![Followers](https://img.shields.io/github/followers/CheSubhro?style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/CheSubhro?style=for-the-badge)
-
-![Profile Views](https://komarev.com/ghpvc/?username=CheSubhro&style=for-the-badge&color=blue)
-
-![Top Language](https://img.shields.io/github/languages/top/CheSubhro/CheSubhro?style=for-the-badge)
-
-![Repo Size](https://img.shields.io/github/repo-size/CheSubhro/CheSubhro?style=for-the-badge)
+```md id="0dc5zv"
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CheSubhro&theme=tokyonight" 
+/>
 ```
+
 
 
 
